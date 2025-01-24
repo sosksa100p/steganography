@@ -8,4 +8,15 @@ This project allows you to hide secret messages inside images using steganograph
 
 1. Install the required library:
    ```bash
-   pip install pillow numpy
+   pip install pillow numpy 
+
+
+ # Steganography Tool
+
+This project allows you to hide secret messages inside images using steganography. It encodes messages in the least significant bits (LSBs) of the image's pixel values.
+
+## How to Run
+
+1. Install the required library:
+   ```bash
+   pip install pillow numpy  
